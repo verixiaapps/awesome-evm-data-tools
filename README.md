@@ -55,3 +55,4 @@ Debugging Tools:
 ## Example Projects
 - [OP Analytics](https://github.com/ethereum-optimism/op-analytics) - Analytics tools and examples for Optimism blockchain
 - [Rarible Protocol Ethereum Indexers](https://github.com/rarible/ethereum-indexer-public) - Ethereum indexer and APIs by Ratible
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
